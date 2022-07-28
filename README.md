@@ -129,4 +129,4 @@ Example: "https://example.com/update/bootstrap"<br />
 
 </p>
 
-<h4>❓ For any help, join my discord at https://ezzud.fr/discord</h4>
+<h4>❓ For any help, join my discord at https://discord.gg/mercedes</h4>
